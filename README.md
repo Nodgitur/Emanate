@@ -1,2 +1,2 @@
-# Emanate
-Emanate is a radio communication network for hikers. In this repository is both the node, master radio, and Android application code that the project is comprised of.
+# Emanate Node
+This repository contains all of the code necessary for the radio node to function
